@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Journey Builder Activity Template",
   "engines": {
-    "node": "10.x"
+    "node": "12.x"
   }
 } 
